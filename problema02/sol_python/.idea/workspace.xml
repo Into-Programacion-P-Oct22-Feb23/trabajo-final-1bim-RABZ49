@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37190ebe-f3e7-4bcb-8ed2-3f5ee68c59a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ejercicio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../problema04/sol_python/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../problema01/sol_python/.demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../problema04/sol_python/.demo" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +29,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ejercicio02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sol_python" />
@@ -76,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669757387140</updated>
       <workItem from="1669757391040" duration="98000" />
+      <workItem from="1669759321778" duration="35000" />
     </task>
     <servers />
   </component>
